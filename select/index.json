@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "CIRCUS MAXIMUS",
+  "base_artist": "Travis Scott",
+  "createdAt": "2026-02-26T13:47:59.996548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blood Slakes the Sand at the Circus Maximus",
+      "artist": "Bal-Sagoth",
+      "has_synced": true,
+      "path": "select/01_Blood_Slakes_the_Sand_at_the_Circus_Maximus_Bal-Sagoth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circus Maximus",
+      "artist": "Clutch",
+      "has_synced": true,
+      "path": "select/02_Circus_Maximus_Clutch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/03_CIRCUS_MAXIMUS_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/04_CIRCUS_MAXIMUS_(feat._The_Weeknd_&_Swae_Lee)_Travis_Scott.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS",
+      "artist": "Travis Scott feat. The Weeknd & Swae Lee",
+      "has_synced": false,
+      "path": "select/05_CIRCUS_MAXIMUS_Travis_Scott_feat._The_Weeknd_&_Swae_Lee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS",
+      "artist": "Travis Scott ft. The Weeknd",
+      "has_synced": true,
+      "path": "select/06_CIRCUS_MAXIMUS_Travis_Scott_ft._The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+      "artist": "Travis Scott feat. The Weeknd & Swae Lee",
+      "has_synced": true,
+      "path": "select/07_CIRCUS_MAXIMUS_(feat._The_Weeknd_&_Swae_Lee)_Travis_Scott_feat._The_Weeknd_&_Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+      "artist": "Travis Scott/The Weeknd/Swae Lee",
+      "has_synced": true,
+      "path": "select/08_CIRCUS_MAXIMUS_(feat._The_Weeknd_&_Swae_Lee)_Travis_Scott_The_Weeknd_Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Circus Maximus",
+      "artist": "Travis Scott feat. Swae Lee & The Weeknd",
+      "has_synced": true,
+      "path": "select/09_Circus_Maximus_Travis_Scott_feat._Swae_Lee_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Travis Scott - CIRCUS MAXIMUS (Official Audio) ft. The Weeknd, Swae Lee",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/10_Travis_Scott_-_CIRCUS_MAXIMUS_(Official_Audio)_ft._The_Weeknd,_Swae_Lee_Travis_Scott.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS",
+      "artist": "Travis Scott, The Weeknd, Swae Lee",
+      "has_synced": true,
+      "path": "select/11_CIRCUS_MAXIMUS_Travis_Scott,_The_Weeknd,_Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Circus Maximus (feat. The Weeknd)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/12_Circus_Maximus_(feat._The_Weeknd)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Circus Maximus",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/13_Circus_Maximus_Travis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+      "artist": "TravisScottVEVO",
+      "has_synced": true,
+      "path": "select/14_CIRCUS_MAXIMUS_(feat._The_Weeknd_&_Swae_Lee)_TravisScottVEVO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS - Hiphopde.com",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/15_CIRCUS_MAXIMUS_-_Hiphopde.com_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS (Official Audio)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/16_CIRCUS_MAXIMUS_(Official_Audio)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Travis Scott - CIRCUS MAXIMUS (Official Audio) ft. The Weeknd, Swae Lee",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/17_Travis_Scott_-_CIRCUS_MAXIMUS_(Official_Audio)_ft._The_Weeknd,_Swae_Lee_Travis_Scott.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gipsy VIP (Circus Maximus Mix)",
+      "artist": "Tape Five",
+      "has_synced": true,
+      "path": "select/18_Gipsy_VIP_(Circus_Maximus_Mix)_Tape_Five.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS (con The Weeknd e Swae Lee)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/19_CIRCUS_MAXIMUS_(con_The_Weeknd_e_Swae_Lee)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "CIRCUS MAXIMUS",
+      "artist": "Travis Scott Feat. The Weeknd w/ Swae Lee",
+      "has_synced": true,
+      "path": "select/20_CIRCUS_MAXIMUS_Travis_Scott_Feat._The_Weeknd_w__Swae_Lee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+      "artist": "Travis Scott, The Weeknd, Swae Lee",
+      "has_synced": false,
+      "path": "select/pl_01_CIRCUS_MAXIMUS_(feat._The_Weeknd_&_Swae_Lee)_Travis_Scott,_The_Weeknd,_Swae_Lee.txt"
+    }
+  ]
+}
