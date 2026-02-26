@@ -1,0 +1,84 @@
+# Travis Scott – CIRCUS MAXIMUS
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.09] Unreal, what is this?
+[00:02.89] God done gave me strength
+[00:06.76] Are these the front-row seats you wanted?
+[00:10.16] We'll have our final moment
+[00:23.66] 
+[00:27.03] A walking attraction
+[00:29.14] A walking distraction
+[00:31.04] I'm naturally black and
+[00:32.82] Unnaturally breathing
+[00:34.67] Like a waist that is snatching
+[00:36.08] Welcome to my world where it's packed and
+[00:38.30] At the top of the tavern
+[00:40.44] How I see when this happenin'
+[00:42.30] All the real have been dabbed in
+[00:43.67] All the, all the bumps and the grabbin'
+[01:03.17] 
+[00:46.06] Ain't no cops here harassing
+[00:48.17] All the looks and the laughin'
+[00:50.17] And outside, it got traffic
+[00:51.73] 'Cause inside, we wrеak havoc
+[00:53.70] Yeah, I know when this, yeah, I know whеn this drastic
+[00:56.13] Where it's goin'
+[01:04.13] 
+[00:57.60] When I back up emotions
+[00:59.42] All this here, I'm controllin'
+[01:01.53] When I'm back in the–
+[01:02.44] When I'm back in the streets, on my side, I'm patrollin'
+[01:05.24] When I'm back in the, when I'm back in the (ah)
+[01:28.74] 
+[01:07.81] I know our love is forsaken (whoo)
+[01:11.76] But do you care if I was alive? (Whenever I'm back in the)
+[01:16.08] Or do you want to be famous? (Whoo, yeah)
+[01:36.58] 
+[01:21.87] I took the top off
+[01:23.59] Like she took that lil' blouse off
+[01:25.67] Too hard to go drop off
+[01:27.55] You know that boy not soft
+[01:29.48] I never would travel
+[01:31.34] So I need me a time vault
+[01:33.32] I been up in Cabo
+[01:35.22] With my Bailey Osanto
+[01:37.08] In this world, look around yo'
+[01:38.87] It's just mano y mano
+[01:49.37] 
+[01:40.84] I might still eat McDonald's
+[01:42.66] But don't think I'm a Ronald
+[01:44.75] I went back to my land
+[01:45.94] Move like Moses, walking overseas
+[01:47.90] In my state because the country
+[01:49.86] Every part of it is part of me
+[01:51.81] Tell your parliament "Pardon me" (whoo)
+[01:53.67] Off the saké turned to Socrates (whoo)
+[01:55.43] Heavy moments on the ground
+[01:57.58] Feel it shapin' in the sound
+[02:11.58] 
+[01:59.21] 'Cause we ri—, 'cause we right in yo' house
+[02:02.04] And you know that we down
+[02:03.82] If yo' ass don't know nothin'
+[02:05.81] Gotta know that it's time
+[02:07.66] I'm excited, it's jumpin'
+[02:09.86] So much that I'm flyin'
+[02:21.36] 
+[02:11.35] Put you right in the function
+[02:13.41] Took you right off a VINE
+[02:15.27] Got this shit in a bind
+[02:16.82] We got it, we got it now (aah, woo)
+[02:24.69] Whenever I'm ducking it (aah, woo)
+[02:41.69] 
+[02:34.23] I'm waiting on a let-go
+[02:37.12] I'm waiting on a let-go
+[02:40.17] I know myself, I know exactly how to make you special
+[02:46.69] Go, go, let your fame
+[02:49.60] I'm waiting in an echo
+[02:52.51] I'm waiting in an echo
+[02:55.12] 'Cause you keep calling out that I done told you
+[03:00.12] Love with you, my side, I'll let you out, out-out
+[03:06.00] Out-out, la-la (out, out-out)
+[03:11.39] (Out-out, la-la)
+```
